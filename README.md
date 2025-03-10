@@ -7,7 +7,7 @@ Home: https://stac-utils.github.io/stacrs
 
 Package license: MIT OR Apache-2.0
 
-Summary:  A Python package for STAC using Rust under the hood 
+Summary: A Python package for STAC using Rust under the hood.
 
 Development: https://github.com/stac-utils/stacrs
 
