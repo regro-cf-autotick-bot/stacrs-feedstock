@@ -11,7 +11,7 @@ source:
   sha256: ddcfca4615d1ab71c79625499110f46961953e9b8c79e1366450f34d194b8a77
 
 build:
-  number: 0
+  number: 1
   script:
     - if: win # work around long path problem, https://github.com/conda-forge/staged-recipes/commit/d86e4bb10154fc3833cae054e197ea2d7119dac7
       then: |
